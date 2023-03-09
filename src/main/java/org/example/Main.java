@@ -8,4 +8,7 @@ public class Main {
     //Finished Main Code
 
     // DDD
+
+
+    // new method 2
 }
