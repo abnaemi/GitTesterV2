@@ -1,0 +1,18 @@
+Index: src/main/java/org/example/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\n\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello world!\");\n    }\n   // Main Code created\n    //Finished Main Code\n\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Main.java b/src/main/java/org/example/Main.java
+--- a/src/main/java/org/example/Main.java	(revision 63519dce4162d61d6a85c613670d4bd6e665a13a)
++++ b/src/main/java/org/example/Main.java	(date 1678356004098)
+@@ -7,4 +7,6 @@
+    // Main Code created
+     //Finished Main Code
+ 
++
++
+ }
+\ No newline at end of file

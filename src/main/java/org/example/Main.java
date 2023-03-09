@@ -7,4 +7,5 @@ public class Main {
    // Main Code created
     //Finished Main Code
 
+    // DDD
 }
